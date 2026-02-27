@@ -48,7 +48,7 @@
 ### ✒️ [CodePen Showreel](https://codepen.io/Aida-sofia-Lily)
 *UI & CSS Lab* Where I experiment with the **Popover API**, **OKLCH colors**, and **Neumorphism** to bridge the gap between low-level logic and high-end design.
 
-### 🕹️ [CAMLBOY](https://github.com/aidasofialily/CAMLBOY)
+### 🕹️ [CAMLBOY](https://github.com/aidasofialily-cmd/CAMLBOY)
 A cycle-accurate Game Boy emulator written in OCaml.  
 * **Tech:** OCaml, WebGL, js_of_ocaml.
 
