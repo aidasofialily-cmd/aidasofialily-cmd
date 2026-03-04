@@ -57,6 +57,7 @@ A cycle-accurate Game Boy emulator written in OCaml.
 * **Tech:** OCaml, WebGL, js_of_ocaml.
 
 ---
+
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=aidasofialily-cmd&color=green&style=flat-square)
 
