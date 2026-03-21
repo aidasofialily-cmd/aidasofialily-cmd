@@ -77,3 +77,7 @@ A cycle-accurate Game Boy emulator written in OCaml.
 | **CodePen** | [Aida-sofia-Lily](https://codepen.io/Aida-sofia-Lily) | UI Mocks & Browser Test Archives |
 | **Portfolio** | [aidasofialily-cmd.github.io](https://aidasofialily-cmd.github.io) | Project Sales & Technical Reports |
 | **Email** |[aidasofialily@gmail.com](mailto:aidasofialily@gmail.com) | Email with us |
+
+---
+### GitHub Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=aidasofialily-cmd&show_icons=true&locale=en&theme=algolia&include_all_commits=true)](https://github.com/aidasofialily-cmd)
