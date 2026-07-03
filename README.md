@@ -83,3 +83,4 @@ A cycle-accurate Game Boy emulator written in OCaml.
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=aidasofialily-cmd&show_icons=true&locale=en&theme=algolia&include_all_commits=true)](https://github.com/aidasofialily-cmd)<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidasofialily-cmd&layout=compact&theme=vision-friendly-dark&hide_border=false&langs_count=6" alt="Top Languages" />
 </div>
+<a href="https://github.com/aidasofialily-cmd?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=aidasofialily-cmd&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="aidasofialily-cmd's github-readme-stats"/></a>
