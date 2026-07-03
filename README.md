@@ -63,6 +63,20 @@ A cycle-accurate Game Boy emulator written in OCaml.
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=aidasofialily-cmd&color=green&style=flat-square)
 
+<details open>
+  <summary><h2>📈 GitHub Activity Graph</h2></summary>
+
+  <!-- Activity Graph --> 
+  <div align="center">
+    <a href="https://github.com/aidasofialily-cmd">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=aidasofialily-cmd&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+        alt="GitHub Activity Graph"
+      />
+    </a>
+  </div>
+</details>
+
 ## 📫 CONNECTION STRING
 
 | Channel | Endpoint |
