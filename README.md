@@ -91,22 +91,6 @@ A cycle-accurate Game Boy emulator written in OCaml.
 
 <h2></h2>
 
-
-<details>
-  <summary><h2>🔝 Top Contributed Repo</h2></summary>
-
-  <br>
-  
-<p align="center">
-  <a href="https://github.com/aidasofialily-cmd">
-   <img src="https://repository-contribution-stats.vercel.app/api?username=aidasofialily-cmd&limit=6&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&combine_all_yearly_contributions=true&hide_contributor_rank=false" alt="GitHub Top Repo" />
-  </a>
-</p>
-</details>
-
-<h2></h2>
-
-
 ## 📫 CONNECTION STRING
 
 | Channel | Endpoint |
